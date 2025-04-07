@@ -1,3 +1,5 @@
 # 4500test
 
-We an add text in RStudio
+We can add text in RStudio
+
+We can also add text editing in GitHub
